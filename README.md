@@ -1,4 +1,4 @@
-# QuickSet
+# Bridgestone Scheduler
 
 QuickSet is an AI-powered conversational platform for fast and effortless appointment scheduling. Our goal is to minimize user effort—ideally reducing the process to just a natural language query—by leveraging Large Language Models (LLMs) and real-time API integrations.
 
